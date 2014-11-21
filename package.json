@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "ibadplum"
+  },
+  "contacts": [
+    "ibadplum@gmail.com"
+  ],
+  "name": "mocktool",
+  "description": "mocktool",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "mock",
+    "mock JSON",
+    "mock service",
+    "mock server",
+    "schema",
+    "schema format",
+    "schema mock"
+  ],
+  "dependencies": {
+    "json-schema-mock": ">=0.0.8",
+    "edp-webserver": ">=1.0.16"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
