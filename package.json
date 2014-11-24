@@ -1,7 +1,5 @@
 {
-  "author": {
-    "name": "ibadplum"
-  },
+  "author": "ibadplum",
   "contacts": [
     "ibadplum@gmail.com"
   ],
@@ -23,12 +21,13 @@
     "schema mock"
   ],
   "dependencies": {
-    "json-schema-mock": ">=0.0.8",
-    "edp-webserver": ">=1.0.16"
+    "json-schema-mock": ">=0.0.8"
   },
   "engines": {
     "node": "*"
   },
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
